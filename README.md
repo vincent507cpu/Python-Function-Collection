@@ -1,0 +1,2 @@
+# Python_Func_-Collection
+这是我整理的 Python 及其库的函数的集合。This is a collection of Python function usages for build-in and 3rd party modules.
